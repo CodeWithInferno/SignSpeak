@@ -196,5 +196,5 @@ This project is licensed under the MIT License. See [LICENSE](./LICENSE) for det
 ---
 
 
-> Made with ❤️ by Pratham Patel, Raahil Patel & Tashvi Patel
+> Made with ❤️ by Pratham Patel, Raahil Desai & Tashvi Patel
 
